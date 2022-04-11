@@ -21,8 +21,11 @@ Search the current and future weather conditions for multiple cities.
 * OpenWeather API
 
 ## Website
+https://sadiqmomin.github.io/Weather-App/
 
-![image]
+## Image of application
+
+![Weather Dashboard](/Assets/images/Screen%20Shot%20Weather%20App%202.png)
 
 ## Contribution
 Made with ❤️ by Sadiq Momin
