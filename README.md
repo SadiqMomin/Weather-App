@@ -25,7 +25,7 @@ https://sadiqmomin.github.io/Weather-App/
 
 ## Image of application
 
-![Weather Dashboard](/Assets/images/Screen%20Shot%20Weather%20App%202.png)
+![Weather Dashboard](/Assets/weather-dashboard-screenshot.png)
 
 ## Contribution
 Made with ❤️ by Sadiq Momin
